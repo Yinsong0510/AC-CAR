@@ -54,7 +54,7 @@ For the CMRxRecon dataset, run
 If you make use of the code or found it useful, please cite the paper:
 
 <p align="center">
-<b>CAR: Adaptive Conditional Contrast-Agnostic Deformable Image Registration with Uncertainty Estimation</b>
+<b>AC-CAR: Adaptive Conditional Contrast-Agnostic Deformable Image Registration with Uncertainty Estimation</b>
 </p>
 
 <p align="center">
