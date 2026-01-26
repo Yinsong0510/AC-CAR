@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="network.png" alt="network" width="1000"/>
+  <img src="network_new.png" alt="network" width="1000"/>
 </p>
 
 <p align="center">
