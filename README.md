@@ -59,13 +59,12 @@ If you make use of the code or found it useful, please cite the paper:
 
 <p align="center">
 <pre>
-@inproceedings{wang2024car,
-  title={CAR: Contrast-Agnostic Deformable Medical Image Registration with Contrast-Invariant Latent Regularization},
-  author={Wang, Yinsong and Du, Siyi and Zheng, Shaoming and Luo, Xinzhe and Qin, Chen},
-  booktitle={International Workshop on Biomedical Image Registration},
-  pages={308--318},
-  year={2024},
-  organization={Springer}
+@article{wang2026adaptive,
+  title={Adaptive Conditional Contrast-Agnostic Deformable Image Registration with Uncertainty Estimation},
+  author={Wang, Yinsong and Luo, Xinzhe and Du, Siyi and Qin, Chen},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2026},
+  publisher={IEEE}
 }
 </pre>
 </p>
