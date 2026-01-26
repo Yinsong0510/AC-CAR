@@ -38,7 +38,7 @@ For the CMRxRecon dataset, run
 For the CMRxRecon dataset, run
 - `python train_IXI.py`
 
-> Note: You may need to customize your own dataloader. Add your customized dataloader to <code>utils/Functions.py</code>.
+> Note: You may need to customize your own dataloader. Add your customized dataloader to <code>datasets/dataloader.py</code>.
 
 # Inference
 For the CamCAN dataset, run
