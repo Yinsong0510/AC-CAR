@@ -11,10 +11,12 @@
 </p>
 
 <p align="center">
+  Registration Network architecture
   <img src="network_new.png" alt="network" width="1000"/>
 </p>
 
 <p align="center">
+  Variance network that leverages the contrast-invariant feature from registration network
   <img src="var_reg_all.png" alt="network" width="1000"/>
 </p>
 
