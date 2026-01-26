@@ -14,6 +14,10 @@
   <img src="network.png" alt="network" width="1000"/>
 </p>
 
+<p align="center">
+  <img src="var_reg_all.png" alt="network" width="1000"/>
+</p>
+
 ---
 
 # Prerequisites
