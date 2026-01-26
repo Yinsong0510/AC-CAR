@@ -1,7 +1,7 @@
 <h1 align="center">
   <font color="purple">
     AC-CAR: Adaptive Conditional Contrast-Agnostic Deformable Image Registration with Uncertainty Estimation (IEEE Transactions on Medical Imaging)  
-    <a href="[https://arxiv.org/abs/2408.05341]" target="_blank" style="text-decoration:none; color:blue; font-size:24px;">[Paper]</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11345324" target="_blank" style="text-decoration:none; color:blue; font-size:24px;">[Paper]</a>
   </font>
 </h1>
 
