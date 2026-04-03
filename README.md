@@ -79,7 +79,7 @@ pip install torch numpy nibabel simpleitk pywavelets
 
 | Dataset | Modality | Task | Link |
 |:--------|:---------|:-----|:----:|
-| **CamCAN** | 3D Brain MRI (T1w, T2w) | Inter‑subject | [🔗](https://www.cam-can.org/) |
+| **CamCAN** | 3D Brain MRI (T1w, T2w) | Inter‑subject | [🔗](https://opendata.mrc-cbu.cam.ac.uk/projects/camcan/) |
 | **IXI** | 3D Brain MRI (T1w, T2w, PD) | Inter‑subject | [🔗](https://brain-development.org/ixi-dataset/) |
 | **CMRxRecon** | 2D Cardiac MRI (Cine + T1 Mapping) | Intra‑subject | [🔗](https://cmrxrecon.github.io/) |
 
