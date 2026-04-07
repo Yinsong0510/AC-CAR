@@ -8,7 +8,6 @@
   <a href="https://ieeexplore.ieee.org/"><img src="https://img.shields.io/badge/IEEE-TMI%202026-00629B.svg" alt="IEEE TMI"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?logo=python&logoColor=white" alt="Python"></a>
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%3E%3D1.10-EE4C2C.svg?logo=pytorch&logoColor=white" alt="PyTorch"></a>
-  <a href="https://github.com/Yinsong0510/AC-CAR/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Yinsong0510/AC-CAR" alt="License"></a>
   <a href="https://github.com/Yinsong0510/AC-CAR/stargazers"><img src="https://img.shields.io/github/stars/Yinsong0510/AC-CAR?style=social" alt="Stars"></a>
 </p>
 
