@@ -221,12 +221,6 @@ If you find this code useful, please cite our paper:
 
 ---
 
-## 🙏 Acknowledgements
-
-This work was partially supported by the Engineering and Physical Sciences Research Council (EPSRC) under Grant EP/Y002016/1 and EP/X039277/1.
-
----
-
 <p align="center">
   📧 <b>Contact:</b> <a href="mailto:y.wang23@imperial.ac.uk">y.wang23@imperial.ac.uk</a>
 </p>
