@@ -57,10 +57,6 @@
 
 ## ⚙️ Prerequisites
 
-```bash
-pip install torch numpy nibabel simpleitk pywavelets
-```
-
 | Package | Version |
 |:--------|:--------|
 | Python | 3.9 |
