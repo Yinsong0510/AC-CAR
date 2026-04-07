@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">AC-CAR</h1>
-  <h2 align="center">Adaptive Conditional Contrast-Agnostic Deformable Image Registration<br>with Uncertainty Estimation (TMI 2026)</h2>
+  <h1 align="center">Adaptive Conditional Contrast-Agnostic Deformable Image Registration<br>with Uncertainty Estimation (TMI 2026)</h1>
 </p>
 
 <p align="center">
