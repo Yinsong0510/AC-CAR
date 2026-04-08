@@ -193,12 +193,11 @@ If you find this code useful, please cite our paper:
 
 ```bibtex
 @article{wang2026adaptive,
-  title   = {Adaptive Conditional Contrast-Agnostic Deformable Image Registration 
-             with Uncertainty Estimation},
-  author  = {Wang, Yinsong and Luo, Xinzhe and Du, Siyi and Qin, Chen},
-  journal = {IEEE Transactions on Medical Imaging},
-  year    = {2026},
-  publisher = {IEEE}
+  title={Adaptive Conditional Contrast-Agnostic Deformable Image Registration with Uncertainty Estimation},
+  author={Wang, Yinsong and Luo, Xinzhe and Du, Siyi and Qin, Chen},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
@@ -207,13 +206,12 @@ If you find this code useful, please cite our paper:
 
 ```bibtex
 @inproceedings{wang2024car,
-  title     = {CAR: Contrast-Agnostic Deformable Medical Image Registration 
-               with Contrast-Invariant Latent Regularization},
-  author    = {Wang, Yinsong and Du, Siyi and Zheng, Shaoming and Luo, Xinzhe and Qin, Chen},
-  booktitle = {International Workshop on Biomedical Image Registration},
-  pages     = {308--318},
-  year      = {2024},
-  organization = {Springer}
+  title={CAR: Contrast-Agnostic Deformable Medical Image Registration with Contrast-Invariant Latent Regularization},
+  author={Wang, Yinsong and Du, Siyi and Zheng, Shaoming and Luo, Xinzhe and Qin, Chen},
+  booktitle={International Workshop on Biomedical Image Registration},
+  pages={308--318},
+  year={2024},
+  organization={Springer}
 }
 ```
 
